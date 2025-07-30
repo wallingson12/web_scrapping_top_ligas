@@ -22,7 +22,7 @@ Este projeto em Python coleta dados estatísticos de futebol (artilharia e assis
   - Assistências
   - Artilharia (gols)
   - Participações totais (gols + assistências)
-- Dashboard personalizado com Matplotlib focado nas estatísticas de Erling Haaland por competição, mostrando gols e assistências lado a lado.
+- Dashboard personalizado com Matplotlib focado nas estatísticas de um jogador de sua escolha por competição, mostrando gols e assistências lado a lado.
 
 ---
 
